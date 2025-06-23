@@ -140,3 +140,16 @@ body.dark #theme-toggle {
 body.dark #theme-toggle:hover {
   background-color: #666;
 }
+.github-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #24292e;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.github-button:hover {
+  background-color: #444;
+}
